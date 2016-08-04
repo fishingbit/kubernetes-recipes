@@ -13,4 +13,4 @@ https://github.com/giantswarm/kubernetes-weave-scope/
 
 ## Kubernetes Dashboard
 
-https://github.com/giantswarm/kubernetes-dashboard/
+https://github.com/giantswarm/kube-dashboard/
