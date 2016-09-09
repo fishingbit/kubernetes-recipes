@@ -12,7 +12,7 @@ The recipes published here have been tested and work on standard Giant Swarm Kub
 Currently, there are following categories of recipes:
 
 * [Metrics & UI](metrics_ui.md)
-* Logging
+* [Logging](logging.md)
 * Registry
 * Continuous Integration / Continuous Delivery
 * Data Bases and Data Stores
