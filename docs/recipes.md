@@ -12,8 +12,8 @@ The recipes published here have been tested and work on standard Giant Swarm Kub
 Currently, there are following categories of recipes:
 
 * [Metrics & UI](metrics_ui.md)
-* Logging
-* Registry
+* [Logging](logging.md)
+* [Registry](https://github.com/giantswarm/kubernetes-registry)
 * Continuous Integration / Continuous Delivery
 * Data Bases and Data Stores
 * Utility
